@@ -1,5 +1,36 @@
 # Fastly_Cdn Release Notes
 
+## 1.2.226
+
+- Update available Fastly Shielding POP list https://github.com/fastly/fastly-magento2/pull/738
+- Update Netacea integration to 5.10.7 https://github.com/fastly/fastly-magento2/pull/737
+
+## 1.2.225
+
+- PHP 8.4 suport https://github.com/fastly/fastly-magento2/pull/724
+- Update Netacea integration to 5.10.6 https://github.com/fastly/fastly-magento2/pull/736
+
+## 1.2.224
+
+- Update available Fastly Shielding POP list
+- Update to DataDome Fastly Module 2.24.1 https://github.com/fastly/fastly-magento2/pull/728
+- Remove legacy WAF button https://github.com/fastly/fastly-magento2/pull/735
+
+## 1.2.223
+
+- Update available Fastly Shielding POP list
+
+## 1.2.222
+
+- Update to DataDome Fastly Module 2.23.0 https://github.com/fastly/fastly-magento2/pull/715
+
+## 1.2.221
+
+- Catch Throwable instead of Exception in Blocking controller https://github.com/fastly/fastly-magento2/pull/704
+- Perform additional validation during tag purge https://github.com/fastly/fastly-magento2/pull/705
+- Trigger init of edge modules if tab is open by default https://github.com/fastly/fastly-magento2/pull/707 
+- Don't display NGWAF dictionary in admin screen https://github.com/fastly/fastly-magento2/pull/710
+
 ## 1.2.220
 
 - Logging endpoints changes https://github.com/fastly/fastly-magento2/pull/701
